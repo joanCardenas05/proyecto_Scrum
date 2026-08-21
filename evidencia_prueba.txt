@@ -1,1 +1,0 @@
-Archivo adicional de evidencia para commit estructurado.
